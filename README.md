@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mercy N.
-- 👀 I’m interested in CODING WITH SQL and building Interactive dashboards with Power BI
+- 👀 I’m interested in coding SQL and building Interactive dashboards with Power BI
 - 🌱 I’m currently learning Query Optimisation
 - 📫 How to reach me fbeyeh@yahoo.com
 
